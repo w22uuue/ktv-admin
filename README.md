@@ -26,9 +26,9 @@ KTV 系统的 Vue 3 PC 管理基础框架，与 ktv-backend 和 ktv-app 共同�
 
 | 项目 | 说明 | GitHub |
 | --- | --- | --- |
-| ktv-backend | 后端 API、共享订单与权限服务 | [ktv-backend](https://github.com/jiangyi3265/ktv-backend) |
-| ktv-admin | PC 运营管理基础框架 | [ktv-admin](https://github.com/jiangyi3265/ktv-admin) |
-| ktv-app | 顾客、食堂配送及 KTV 移动管理客户端 | [ktv-app](https://github.com/jiangyi3265/ktv-app) |
+| ktv-backend | 后端 API、共享订单与权限服务 | [ktv-backend](https://github.com/w22uuue/ktv-backend) |
+| ktv-admin | PC 运营管理基础框架 | [ktv-admin](https://github.com/w22uuue/ktv-admin) |
+| ktv-app | 顾客、食堂配送及 KTV 移动管理客户端 | [ktv-app](https://github.com/w22uuue/ktv-app) |
 
 ## 快速启动
 
@@ -84,5 +84,6 @@ public/           原样发布的公共资源
 ## 来源与许可证
 
 基于 [RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) 开发，保留原项目 MIT 许可证与作者声明，详见 [LICENSE](LICENSE)。
+
 
 
